@@ -56,13 +56,18 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 # Home Page
 Here you can find brief history of the products and website
+![1](https://user-images.githubusercontent.com/76831671/165551624-d02e0ac3-5fac-4ddc-97af-0cac1b649e30.png)
+
  
     
 
 
 
-# Add to Cart
+# Products Page
 In this Page, You can add the products to the Cart
+![2](https://user-images.githubusercontent.com/76831671/165551863-d630ff83-1cce-47bd-95af-5b4e0cd87233.png)
+
+
 
 
 
@@ -70,26 +75,29 @@ In this Page, You can add the products to the Cart
 
 # Sign-Up Page
 if you want buy any product you need sign up first and login with details then only you can buy
+![3](https://user-images.githubusercontent.com/76831671/165552120-e5b54df3-31cd-427e-b581-5e176a2551bd.png)
 
 
 
 
 
-# Products Page
+
+
+# Products Details Page
 In this page, you can find all details of the product like price of the product, Ratings given by the customer to each product, how products sold , How to use the product and how the product made
-
-
-
- # Payment Page
-In this page, If you want to purchase the product, you need fill some details regarding card details and here you also find how the discount you get, how much you need to pay and address
+![4](https://user-images.githubusercontent.com/76831671/165552333-8f40e5ef-0061-4668-a387-2f35f3441983.png)
 
 
 
 
+## Hope You liked the work
 
 
-# Order Summary
-After purchase the product,  it will show the order details like how much you paid and when product will deliver.
+
+
+
+
+
 
 
 
