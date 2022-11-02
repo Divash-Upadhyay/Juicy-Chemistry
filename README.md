@@ -3,8 +3,6 @@
 
 ### JuicyChemistry Clone-Project
 
-This is a team project, built by 5 members in the Construct Week - Unit-2 at Masai School with in 7 days. 
-
 # https://juicy-chemistry.vercel.app/
 
 
@@ -12,15 +10,7 @@ This is a team project, built by 5 members in the Construct Week - Unit-2 at Mas
 
 ### About this project: 🙌
 
- This is a team project, built by us in the Construct Week - Unit 2 at Masai School.
-
-### Our Team Members ❤️
-
-- **Abu Raghib Umar**
-- **Durgesh Kumar Singh**
-- **Divash-Upadhyay**
-- **Jenish Kathrotiya**
-- **Yarasi Ashokvardhana Reddy**
+ This is a project, built by me in the Construct Week - Unit 2 at Masai School.
 
 
 ### Pages & Features 👇
